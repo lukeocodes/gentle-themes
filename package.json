@@ -1,27 +1,32 @@
 {
-    "name": "gentle-themes",
-    "displayName": "Gentle Themes",
-    "description": "A selection of Gentle VSCode themes",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.54.0"
-    },
-    "license": "MIT",
-    "author": {
-        "name": "Luke Oliff",
-        "email": "luke@lukeoliff.com",
-        "url": "https://lukeocodes.dev"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Gentle Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dark-color-theme.json"
-            }
-        ]
-    }
+  "name": "gentle-themes",
+  "displayName": "Gentle Themes",
+  "publisher": "lukeocodes",
+  "repository": "https://github.com/cmjchrisjones/BBBThemes",
+  "description": "A selection of Gentle VSCode themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "devDependencies": {
+    "vsce": "^1.85.0"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Luke Oliff",
+    "email": "luke@lukeoliff.com",
+    "url": "https://lukeocodes.dev"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gentle Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-color-theme.json"
+      }
+    ]
+  }
 }
