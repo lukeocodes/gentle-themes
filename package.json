@@ -2,7 +2,7 @@
   "name": "gentle-themes",
   "displayName": "Gentle Themes",
   "publisher": "lukeocodes",
-  "repository": "https://github.com/cmjchrisjones/BBBThemes",
+  "repository": "https://github.com/lukeocodes/gentle-themes",
   "description": "A selection of Gentle VSCode themes",
   "version": "0.0.1",
   "engines": {
