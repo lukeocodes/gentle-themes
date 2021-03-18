@@ -4,7 +4,7 @@
   "publisher": "lukeocodes",
   "repository": "https://github.com/lukeocodes/gentle-themes",
   "description": "A selection of Gentle VSCode themes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.54.0"
   },
