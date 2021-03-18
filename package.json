@@ -26,6 +26,11 @@
         "label": "Gentle Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-color-theme.json"
+      },
+      {
+        "label": "Gentle Builder",
+        "uiTheme": "vs-dark",
+        "path": "./themes/builder-color-theme.json"
       }
     ]
   }
