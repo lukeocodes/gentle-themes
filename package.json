@@ -18,7 +18,7 @@
       "color": "#000c16",
       "theme": "dark"
   },
-  "icon": "logo.png",
+  "icon": "assets/logo.png",
   "scripts": {
       "publish": "vsce publish"
   },
