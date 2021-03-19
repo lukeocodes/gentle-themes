@@ -7,7 +7,7 @@
       "url": "https://github.com/lukeocodes/gentle-themes"
   },
   "description": "A selection of Gentle VSCode themes",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.54.0"
   },

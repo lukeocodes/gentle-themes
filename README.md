@@ -1,6 +1,9 @@
 # Gentle Themes
 
+![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/lukeocodes.gentle-themes)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/lukeocodes.gentle-themes)
+![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/lukeocodes.gentle-themes)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/lukeocodes.gentle-themes)
 
 Thank you for checking out my themes! A selection of Gentle on the eyes VSCode themes.
 
