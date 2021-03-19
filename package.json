@@ -2,7 +2,10 @@
   "name": "gentle-themes",
   "displayName": "Gentle Themes",
   "publisher": "lukeocodes",
-  "repository": "https://github.com/lukeocodes/gentle-themes",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/lukeocodes/gentle-themes"
+  },
   "description": "A selection of Gentle VSCode themes",
   "version": "0.0.4",
   "engines": {
@@ -11,6 +14,24 @@
   "devDependencies": {
     "vsce": "^1.85.0"
   },
+  "galleryBanner": {
+      "color": "#000c16",
+      "theme": "dark"
+  },
+  "icon": "logo.png",
+  "scripts": {
+      "publish": "vsce publish"
+  },
+  "keywords": [
+      "Theme",
+      "Dark Theme",
+      "Light Theme",
+      "LukeOCodes",
+      "Gentle",
+      "Accessible Theme",
+      "Vibrant",
+      "Night Theme"
+  ],
   "license": "MIT",
   "author": {
     "name": "Luke Oliff",
